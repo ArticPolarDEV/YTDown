@@ -2,6 +2,7 @@
 YTDown - Youtube Downloader
 
 Run `` npm install `` to install dependencies before start app
+
 To start app, run `` npm start `` or `` npm server `` to start only server
 
 ## Minimal Requeriments
